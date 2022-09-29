@@ -1,0 +1,60 @@
+body{
+    
+    border-style: solid;
+    border-color: red;
+    width: 900px;
+}
+h1{
+    font-size: xx-large;
+    border-style: solid;
+    border-color: red;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h2{
+    border-style: solid;
+    border-color: red;
+    margin-left: 20px;
+    margin-right: 20px;}
+    ol {
+         border-style: solid;
+    border-color: red;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+    strong{
+        margin-top: px;
+        border-style: solid;
+    border-color: red;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: x-large;
+    }
+    p{
+        font-size: x-large;
+        margin-top: px;
+        border-style: solid;
+    border-color: red;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    }
+    button{
+        margin-top: px;
+        border-style: solid;
+    border-color: red;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: x-large; 
+    }
+    a{
+        margin-top: px;
+        border-style: solid;
+    border-color: red;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: x-large;   
+    }
